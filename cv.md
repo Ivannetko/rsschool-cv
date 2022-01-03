@@ -14,7 +14,7 @@ _Bachelor, "Occupational Safety Management"_
     - university national football team player\.
 
 ## __About myself__ ##
-I have good communication skills, high stress resistance and ability to work. In work I'm focused on the result, capable of quick adaptation and learning. I am open to communication,  tactful and polite, easily find a common language and understanding, punctual and able to rationally allocate time resource.
+_I have good communication skills, high stress resistance and ability to work. In work I'm focused on the result, capable of quick adaptation and learning. I am open to communication,  tactful and polite, easily find a common language and understanding, punctual and able to rationally allocate time resource._
 
 ## __Experience__ ##
 ### __Hall administrator__ ###
